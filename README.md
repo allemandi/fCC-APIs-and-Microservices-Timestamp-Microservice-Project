@@ -12,6 +12,6 @@ This application primarily utilizes basic Node and Express.
 * Open [localhost:3000](http://localhost:3000) in browser (default port in settings)
 
 ## Replit Example
-[Spotlight](https://replit.com/@allemandi/fcc-APIs-and-Microservices-Timestamp-Microservice-Project)
+[Spotlight](https://replit.com/@allemandi/fCC-APIs-and-Microservices-Timestamp-Microservice-Project)
 
-The [demo can be found here](https://fcc-Timestamp-Microservice-Project.allemandi.repl.co)
+The [demo can be found here](https://fCC-Timestamp-Microservice-Project.allemandi.repl.co)
