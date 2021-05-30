@@ -12,7 +12,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/allemandi/fCC-APIs-and-Microservices-Timestamp-Microservice-Project.git"
+		"url": "https://github.com/allemandi/fCC-Timestamp-Microservice-Project.git"
 	},
 	"keywords": [
 		"node",
